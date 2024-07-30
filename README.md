@@ -2,7 +2,7 @@
 
 ## Overview
 The Login and Register System is a simple and secure authentication system designed to manage user access. This system allows users to create accounts, log in with existing 
-credentials, and ensures secure handling of user data. It can be integrated into various applications to manage user authentication and authorization.
+credentials, and ensures secure handling of user data.
 ## Features
 User Registration: New users can create accounts by providing a username, email, and password.
 
@@ -23,33 +23,32 @@ Go to the login page.
 Enter your registered email and password.
 Click "Login" to access your account.
 
-Thank you for using the Shoe Shop Application!.
+Thank you for using the Login Register Application!.
 
-# Aplikasi Pendataan karyawan
+# Aplikasi Login Register
 
 ## Ringkasan
-Aplikasi Pendataan karyawan didesain untuk mempersingkat pengumpulan, mengelola, dan analysis informasi karyawan. Aplikasi ini mengizinkan departemen HR untuk secara efektif
-mengumpulkan data dan melacak detail karyawan
+Sistem Login and Register adalah sistem authentication yang sederhana dan aman, didesain untuk mengelola akses pengguna. Sistem ini mengizinkan pengguna membuat akun, login dengan kredinsial yang ada, dan memastikan keamanan penggunaan data pengguna.
 
 ## Fitur
-Memasukkan data: mudah memasukkan data karyawan seperti informasi pribadi, informasi kontak, peran pekerjaan, dan gaji.
+Registrasi pengguna: pengguna baru dapat membuat akun dengan menyediakan username,email,and password.
 
-Pengelolaan database: menyimpan dan mengelola rekam karyawan pada database yang teroganisir.
+Login pengguna: pengguna yang sudah membuat akun bisa masuk menggunakan email dan password.
 
-Cari dan jaring: dengan cepat menemukan spesifikasi rekam karyawan dengan pencarian canggih dan pilihan menjaring data.
+Enkripsi password: mengamankan penyimpanan password menggunakan enkripsi.
 
 ## Instalasi
 Gunakan android studio emulator atau perangkat lainnya untuk menjalankan aplikasi.
 
 ## Penggunaan
-Menambahkan data karyawan:
-navigasi ke bagian tambah karyawan.
-isi bagian yang diperlukan seperti nama, informasi kontak, peran pekerjaan, dan gaji.
-pilih simpan untuk menyimpan data.
+Registrasi pengguna baru:
+navigasi ke halaman registrasi.
+isi bagian yang diperlukan seperti username, email, dan password.
+pilih register untuk membuat akun.
 
-Melihat dan mengelola data:
-pergi ke bagian data karyawan.
-gunakan pencarian dan penjaringan untuk menemukan data spesifik.
-ubah atau hapus data seperlunnya.
+Login:
+pergi ke halaman login.
+masukkan email dan password yang sudah terdaftar.
+pilih login untuk mengakses akun.
 
-Terima kasih menggunakan applikasi pengelolaan toko sepatu!.
+Terima kasih menggunakan applikasi Login Register!.
